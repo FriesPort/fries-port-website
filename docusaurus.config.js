@@ -76,9 +76,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '薯条港',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Fries Port Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -86,11 +86,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '文章',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/friesport/fpac',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,25 +103,29 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'docusaurus文档',
+                href: 'https://docusaurus.io/zh-CN/docs',
               },
+              {
+                label: 'MDN互联网文档',
+                href: 'https://developer.mozilla.org/zh-CN/docs/Web'
+              },
+              {
+                label: '计算机自学手册',
+                href: 'https://csdiy.wiki'
+              }
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'matrix',
+                href: 'https://matrix.to/#/#friesport:mozilla.org',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'bilibili',
+                href: 'https://space.bilibili.com/1690617042',
               },
             ],
           },
@@ -134,12 +138,13 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/friesport/fpac',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        //  
+        copyright: `Copyright © ${new Date().getFullYear()} FriesPort. ALL RIGHTS RESERVED. <br/><a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">粤ICP备2022148146号</a>`,
       },
       prism: {
         theme: prismThemes.github,

@@ -32,8 +32,9 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+    // ${siteConfig.title}
+      title={'首页'}
+      description="fries port is a platform for dreamer, where they can make dream come true. ">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
