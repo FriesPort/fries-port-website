@@ -103,7 +103,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'docusaurus文档',
+                label: 'Docusaurus文档',
                 href: 'https://docusaurus.io/zh-CN/docs',
               },
               {

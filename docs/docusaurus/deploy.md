@@ -11,7 +11,7 @@ npm run serve
 ```
 最后映射3000端口至公网即可。可以配合cloudflare tunnel或者内网隧穿等方式实现。
 
-但是我手边没有能够24小时稳定连接网络的设备，因此我选择托管到免费的github pages。理论上可以部署到任何提供对象存储或者提供静态网站托管的服务商。
+但是我手边没有能够24小时稳定连接网络的设备，因此我选择托管到免费的github pages。理论上Docusaurus可以部署到任何提供对象存储或者提供静态网站托管的服务商。
 
 ## 部署到github pages
 每个仓库的网站会托管到指定域名，对于薯条港的fpac仓库来说，这个域名是[`friesport.github.io/fpac`](https://friesport.github.io/fpac)。github会从根目录的`.github/workflows`文件夹读取action配置。从官网抄作业，在这个文件夹下创建action配置文件。注意，官网使用的是yarn，这里我替换为npm，如果需要yarn包管理器的请摘抄官网的。
@@ -100,7 +100,13 @@ jobs:
 
 在github新建仓库，在本地根目录初始化git仓库，在git中关联远程和本地仓库。然后提交代码并推送。
 
-
+```git
+git init
+git remote add github ...
+git add *
+git commit -m "first commit"
+git push github main
+```
 
 创建一个新分支gh-pages，创建后在仓库的pages中设置推送到gh-pages。
 
