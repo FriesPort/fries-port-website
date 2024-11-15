@@ -22,5 +22,5 @@ npm install
 npm run start
 ```
 
-## 参考文档
+## 参考文献
 [Docusurus安装流程](https://docusaurus.io/zh-CN/docs/installation)

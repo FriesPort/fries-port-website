@@ -13,6 +13,9 @@ sidebar_position: 1
 
 对于这类需求，比较符合条件的是文档制作器。其中扩展性主要分为两个阵营：react和vue。react阵营较为出名的是由Meta（Facebook）开发的Docusurus，vue阵营较为出名的是vue自己的主力静态网站生成器vitepress。
 
-以前学过一点点Vue3，但是没整明白，又因为学习的课程[MIT WebLab](https://weblab.mit.edu/)使用的是react，个人觉得react比vue好理解，最终选择了Docusurus。
+以前学过一点点Vue3，但是没整明白，又因为我学习的网站设计课程[MIT Web Lab](https://weblab.mit.edu/)使用的框架是react，在这个过程中个人觉得react比vue好理解，最终选择了Docusurus。
 
 互联网上关于Docusurus的中文资料比较少，特此记录一下自己部署笔记。
+
+## 参考文献
+本次教程使用的资料主要有Docusurus和github pages的官方文档。

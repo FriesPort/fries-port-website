@@ -114,6 +114,6 @@ git push github main
 
 耐心等待action完成任务。
 
-## 参考文档
+## 参考文献
 [Docusurus部署](https://docusaurus.io/zh-CN/docs/deployment)
 
