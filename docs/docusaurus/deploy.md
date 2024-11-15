@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 部署
+# 部署Docusurus至github pages
 
 有多种方式部署，最简单的就是直接在服务器上部署，只需要执行下述命令
 ```bash
