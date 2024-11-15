@@ -1,4 +1,4 @@
-# fpac(fries port academy of sciencs website)
+# fries-port-website(fries port academy of sciencs website)
 
 fries-port-website
 

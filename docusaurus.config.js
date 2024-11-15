@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'friesport', // Usually your GitHub org/user name.
-  projectName: 'fpac', // Usually your repo name.
+  projectName: 'fries-port-website', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/friesport/fpac',
+            href: 'https://github.com/friesport/fries-port-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -138,7 +138,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/friesport/fpac',
+                href: 'https://github.com/friesport/fries-port-website',
               },
             ],
           },

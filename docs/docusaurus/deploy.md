@@ -14,7 +14,7 @@ npm run serve
 但是我手边没有能够24小时稳定连接网络的设备，因此我选择托管到免费的github pages。理论上可以部署到任何提供对象存储或者提供静态网站托管的服务商。
 
 ## 部署到github pages
-每个仓库的网站会托管到指定域名，对于薯条港的fpac仓库来说，这个域名是[`friesport.github.io/fpac`](https://friesport.github.io/fpac)。github会从根目录的`.github/workflows`文件夹读取action配置。从官网抄作业，在这个文件夹下创建action配置文件。注意，官网使用的是yarn，这里我替换为npm，如果需要yarn包管理器的请摘抄官网的。
+每个仓库的网站会托管到指定域名，对于薯条港的fries-port-website仓库来说，这个域名是[`friesport.github.io/fries-port-website`](https://friesport.github.io/fries-port-website)。github会从根目录的`.github/workflows`文件夹读取action配置。从官网抄作业，在这个文件夹下创建action配置文件。注意，官网使用的是yarn，这里我替换为npm，如果需要yarn包管理器的请摘抄官网的。
 ```yaml title=".github\workflows\deploy.yml"
 name: Deploy to GitHub Pages
 
