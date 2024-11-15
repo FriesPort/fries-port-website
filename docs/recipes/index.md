@@ -9,8 +9,8 @@ sidebar_position: 1
 
 ## 饮料
 
-[奶茶](/recipes/milk-tea)
-[柠檬茶](/recipes/)
+[奶茶](milk-tea)
+[柠檬茶](lemon-tea)
 
 ## 参考资料
 
