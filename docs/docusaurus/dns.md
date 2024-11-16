@@ -14,7 +14,7 @@ sidebar_position: 4
 
 提交后会在根目录生成CNAME文件，将该文件挪至static下面，构建静态页面时会自动复制到根目录。
 
-在dns中将目标子域名cname解析到你的仓库github pages。例如我计划使用`www.friesport.ac.cn`作为目标域名，则需要将子域名`www`用cname方法解析到仓库的github pages页面`friesport.github.io/fries-port-website`
+在dns中将目标子域名cname解析到你的仓库github pages。例如我计划使用`www.friesport.ac.cn`作为目标域名，则需要将子域名`www`用cname方法解析到仓库的github pages域名`friesport.github.io`
 
 
 ## 参考文献
