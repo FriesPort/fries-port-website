@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+vincent:
+  name: Vincent Zhong
+  title: webmaster of friesport.ac.cn
+  url: https://github.com/mind-dance
+  image_url: https://github.com/mind-dance.png
+  socials:
+    # x: sebastienlorber
+    # linkedin: sebastienlorber
+    github: mind-dance
+    telegram: https://t.me/paimon_is_guide
+    # newsletter: https://thisweekinreact.com
