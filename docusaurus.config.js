@@ -84,7 +84,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mainSidebar',
             position: 'left',
             label: '文章',
           },
@@ -123,18 +123,18 @@ const config = {
                 label: 'matrix',
                 href: 'https://matrix.to/#/#friesport:mozilla.org',
               },
-              {
-                label: 'bilibili',
-                href: 'https://space.bilibili.com/1690617042',
-              },
             ],
           },
           {
-            title: 'More',
+            title: 'About',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'bilibili',
+                href: 'https://space.bilibili.com/1690617042',
               },
               {
                 label: 'GitHub',

@@ -4,6 +4,7 @@ sidebar_position: 1
 # 待办
 
 - [ ] 部署storj节点
+- [ ] 添加一个自定义侧边栏
 - [ ] 找一个不限流量支持udp的内网穿透
 - [ ] 学习frp的使用
 - [x] ~~调整网站颜色红色#ea5a47,黄色#fcea2b~~ 最后选了ant design预设金色#faad14
