@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 使用storj token充值storj pro账户
 本文中，storj是指storj labs公司。storj代币、storj token、代币，是指在以太坊网络上发行的storj代币。
 

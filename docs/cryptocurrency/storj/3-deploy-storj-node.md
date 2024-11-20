@@ -1,6 +1,7 @@
 ---
 sidebar_label: "部署storj节点"
 title: "部署storj节点"
+sidebar_position: 3
 ---
 
 :::warning
