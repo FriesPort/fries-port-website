@@ -1,9 +1,17 @@
+---
+sidebar_position: 1
+---
+
 # English 42
 the answer of learning english.
 
 ## 简介
 
-本课程基于“逻辑英语”的课程框架搭建，并做了调整。由于笔者缺乏更深入的对英语的研究，因此，不可避免的会有错误，如果你发现了错误，可以向我的b站账号私信，或者发送邮件，当然，最好是在github自己fork后修改，发起pr，这样我就可以直接merge了。
+本课程基于“逻辑英语”的课程框架搭建，并做了调整。由于笔者缺乏更深入的对英语的研究，因此，不可避免的会有错误，如果你发现了错误，可以在matrix、tg上联系我，向我的b站账号发私信，或者发送邮件。如果你希望自己动手编辑网站内容，需要学习以下内容。
+
+- [markdown语法](https://markdown.com.cn/)：这是一种写作方式，简洁有效，可以让作者专注于写作。
+- [github fork](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)：从github上创建属于自己一个分支，这样你有权限修改内容
+- [github pull request](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)：将你修改好的内容提交给我，审核通过后将进入文档。
 
 ### 更大的世界
 
@@ -14,6 +22,14 @@ the answer of learning english.
 入门轻松
 
 更适合高考60-90分的宝宝
+
+## 课程结构
+
+0. 开课必修（初始化）
+1. 公式
+2. 语法
+3. 单词
+4. 交流（听力与口语）
 
 ## 注意
 

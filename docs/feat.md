@@ -4,6 +4,7 @@ sidebar_position: 1
 # 待办
 
 - [ ] 部署storj节点
+- [ ] 添加Algolia搜索
 - [ ] 添加一个自定义侧边栏
 - [ ] 找一个不限流量支持udp的内网穿透
 - [ ] 学习frp的使用
