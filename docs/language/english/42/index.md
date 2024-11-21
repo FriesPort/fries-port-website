@@ -5,44 +5,69 @@ sidebar_position: 1
 # English 42
 the answer of learning english.
 
+:::tip
+你可以自行在各个社交平台或者线下推荐本课程，甚至自己根据[许可证]()在此分发。
+:::
+
+:::warning
+但不要在其他与薯条港无关的英语课程的评论区提及，尤其是付费课程。我们无法保证提供及时、准确的疑难解答，还可能引起其他利益相关团体不必要的关注与针对。
+:::
+
 ## 简介
-
-本课程基于“逻辑英语”的课程框架搭建，并做了调整。由于笔者缺乏更深入的对英语的研究，因此，不可避免的会有错误，如果你发现了错误，可以在matrix、tg上联系我，向我的b站账号发私信，或者发送邮件。如果你希望自己动手编辑网站内容，需要学习以下内容。
-
-- [markdown语法](https://markdown.com.cn/)：这是一种写作方式，简洁有效，可以让作者专注于写作。
-- [github fork](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)：从github上创建属于自己一个分支，这样你有权限修改内容
-- [github pull request](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)：将你修改好的内容提交给我，审核通过后将进入文档。
-
-### 更大的世界
-
 我在大一的时候有幸接触到了csdiy.wiki。根据其中的课程，我了解到除了b站，还有edx，coursura等平台，哈佛MIT伯克利微软，IBM等校企提供质量上乘的课程，但是因为其工作语文（语言和文字）为英语，我推荐过的不少小伙伴没有坚持下来，甚至没入坑。我希望将自己的学习经历分享出来。本人曾根据此课程，高中英语从60分提升到高考120分，虽然分数不高，但我相信我的经历可以帮助一些遇到同样困难的小伙伴。
+### 理念
 
-面相世界
+> 教育要面向现代化、面向世界、面向未来。——邓小平
+
+### 低门槛
 
 入门轻松
 
-更适合高考60-90分的宝宝
+更适合高考60-90分的宝宝的体质
 
-## 课程结构
+## 课程
 
+
+### 结构
 0. 开课必修（初始化）
 1. 公式
 2. 语法
 3. 单词
 4. 交流（听力与口语）
 
-## 注意
+### 资源
+> 术语定义：所有体系化的文章统称为文档（docs）。包括一下几类。  
+> - 教程（tutorial）是一系列课程，它将引导您逐步教您如何做某事。  
+> - 指南（guide）是一个简单的“操作方法”，有足够的信息可以帮助您入门，个人理解为指引前进方向的文章，例如学习路径。  
+> - 手册（manual）是一套完整，深入的说明，职责类似说明书，详细说明每个选项的用法。仅查看需要使用的部分就行，例如新华字典。  
 
+哔哩哔哩视频
 
-我曾考虑的很久应该用什么平台社区。但是微信群组和QQ都让我们感到畏手畏脚。腾讯对大用户量的体验不算好。最后我们决定自部署。由网站提供文档。
+PPT资源
 
-不要在其他卖课的视频下刷CS50和En42。
-1. 没准你回复的人是个托，会导致En42受到不必要的关注。即使强如wallpaper engine，在安卓市场也需要差评保护自己不被同行举报。
-2. 本课程没有足够强大的客服支持，无法提供有力的疑难解答。
-3. 如果你想分享给你的伙伴，可以私下进行转发。
+本站前端代码
 
-统称为文档（docs）其中，手册(manual)是一套完整，深入的说明，职责类似说明书，详细说明每个选项的用法。指南(guide)是一个简单的“操作方法”，有足够的信息可以帮助您入门，个人理解为指引前进方向的文章，例如学习路径。教程(tutorial)是一系列课程，它将引导您逐步教您如何做某事。
+## 社区
+即时通信（包含Q&A）：matrix
 
+论坛：flarum
 
+知识沉淀：Docusurus文档
 
+### 其他分发点
+对于遵守规则的转载，可以申请登记在这里供其他人浏览。
 
+### 耻辱柱
+好耶，暂时没有人被挂在耻辱柱上！
+
+## 找错
+本课程基于“逻辑英语”的课程框架搭建，并做了调整。由于笔者缺乏更深入的对英语的研究，因此，不可避免的会有错误，如果你发现了错误，可以在matrix、tg上联系我，向我的b站账号发私信，或者发送邮件。如果你希望自己动手编辑网站内容，需要学习以下内容。
+
+- [markdown语法](https://markdown.com.cn/)：这是一种写作方式，简洁有效，可以让作者专注于写作。
+- [github fork](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)：从github上创建属于自己一个分支，这样你有权限修改内容
+- [github pull request](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)：将你修改好的内容提交给我，审核通过后将进入文档。
+## 许可证
+
+我希望任何人都可以使用这份教程，如果你需要印刷为书籍分发、或者修改内容后在课堂上使用，都是可以的。仅仅需要署名，并以相同方式分享即可。
+
+CC4.0-BY-SA

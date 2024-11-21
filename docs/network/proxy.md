@@ -8,3 +8,6 @@ docker run -d --name v2ray -v /path/to/config.json:/etc/v2ray/config.json -p 100
 # If you want to use v5 format config
 docker run -d --name v2ray -v /etc/v2ray/config.json:/etc/v2ray/config.json -p 10086:10086 v2fly/v2fly-core run -c /etc/v2ray/config.json -format jsonv5
 ```
+
+
+[clash for windows 0.20.39 中文](https://link.storjshare.io/s/jwvcu3rsydm2pcgxocisa2xcqmya/fpa-cdn/installer%2Fwindows%2Fclash-for-windows/Clash.for.Windows.Setup.0.20.39.exe)
