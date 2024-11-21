@@ -6,7 +6,7 @@ sidebar_position: 1
 the answer of learning english.
 
 :::tip
-你可以自行在各个社交平台或者线下推荐本课程，甚至自己根据[许可证]()在此分发。
+你可以自行在各个社交平台或者线下推荐本课程，甚至自己根据[许可证](#许可证)的要求下再次分发。
 :::
 
 :::warning
