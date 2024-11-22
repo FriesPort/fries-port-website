@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "docs/language/english/42"
+		},
+		{
+			"path": "docs/java"
+		},
+		{
+			"path": "docs/algorithms"
 		}
 	],
 	"settings": {}
