@@ -6,6 +6,10 @@ sidebar_position: 1
 
 The answer to English learning, communication and everything.
 
+:::note
+该课程目前还在施工中，只提供零散笔记，不提供完整的学习流程。
+:::
+
 :::tip
 你可以自行在各个社交平台或者线下推荐本课程，甚至自己根据[许可证](#许可证)的要求下再次分发。
 :::
